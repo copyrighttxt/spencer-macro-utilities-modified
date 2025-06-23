@@ -22,7 +22,7 @@ In certain scenarios, when downgrading from a version with more features to a ve
 
 ![GitHub Releases](https://img.shields.io/github/downloads/Spencer0187/Spencer-Macro-Utilities/total.svg)
 
-## [DOWNLOAD THE LATEST VERSION](https://github.com/Spencer0187/Spencer-Macro-Utilities/releases/latest)
+## [DOWNLOAD THE LATEST VERSION](https://github.com/copyrighttxt/spencer-macro-utilities-modified/releases/latest)
 
 ## Join the Roblox Glitching Discord! (I can help you with support)
 https://discord.gg/roblox-glitching-community-998572881892094012
@@ -50,15 +50,17 @@ https://discord.gg/roblox-glitching-community-998572881892094012
 
 ## The UI is customizable, drag your buttons to re-order them
 
-![image](https://github.com/user-attachments/assets/1db31fcf-0e20-4a3a-8399-645a273e19c4)
+![image](https://github.com/user-attachments/assets/9fc14c6b-2346-4892-9666-45595c57d72f)
 
-![image](https://github.com/user-attachments/assets/d4c00416-f4a0-45f0-8e01-61ac0f5f17a4)
 
-![image](https://github.com/user-attachments/assets/34ec9ef9-1fde-4c76-8694-e9ca54f0478c)
+![image](https://github.com/user-attachments/assets/17488958-621e-45f0-97c5-b2812d292e81)
 
-https://github.com/user-attachments/assets/a2c63feb-b947-4247-802c-34bf6cf8c2ce
+
+![image](https://github.com/user-attachments/assets/12a94a2a-be8f-4838-b1c2-569a9c29550f)
+
 
 ## Credits
 
 - Freezing code framework based on [craftwar/suspend](https://github.com/craftwar/suspend)
 - ImGui GUI library used, obviously... [ocornut/imgui](https://github.com/ocornut/imgui)
+- Spencer's macro (this is a fork, gotta credit the og) [Spencer0187/Spencer-Macro-Utilities](https://github.com/Spencer0187/Spencer-Macro-Utilities)

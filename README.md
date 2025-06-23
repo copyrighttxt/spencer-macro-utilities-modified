@@ -20,7 +20,7 @@ If you have another issue where keybinds don't work, restart your computer, it s
 
 In certain scenarios, when downgrading from a version with more features to a version with less features causes the program to crash on launch, either delete your RMCsettings.json file, or remove section_order_vector from the .json.
 
-![GitHub Releases](https://img.shields.io/github/downloads/Spencer0187/Spencer-Macro-Utilities/total.svg)
+![GitHub Releases](https://img.shields.io/github/downloads/copyrighttxt/spencer-Macro-Utilities-modified/total.svg)
 
 ## [DOWNLOAD THE LATEST VERSION](https://github.com/copyrighttxt/spencer-macro-utilities-modified/releases/latest)
 

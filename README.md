@@ -1,4 +1,7 @@
-# Spencer Macro Client
+# Spencer Macro Client (fork)
+
+this is a fork from spencers macro utilities (https://github.com/Spencer0187/Spencer-Macro-Utilities) with added customization, a new modern ui, stuff like that.
+
 An open-source Windows C++ Roblox ImGui Macro with many features.
 
 To Compile, run the project in Visual Studio 2022 and build it. The main source code is located inside of Visual Studio/macroframework.cpp.

@@ -45,6 +45,7 @@ https://discord.gg/roblox-glitching-community-998572881892094012
 14. Item-Clip
 15. Spam a Key/Button
 16. Intelligent Bhop/Bunnyhop
+17. Custom Theming
 
 # AUTOMATICALLY SAVES YOUR SETTINGS WHEN CLOSED
 
